@@ -1,0 +1,1 @@
+Hi, this is where I am going to be creating a website and keeping track of it.  This is just a personal project I want to make public.
