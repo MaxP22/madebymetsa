@@ -53,6 +53,31 @@
 		#banner p {
 			font-size: 1.25em;
 		}
+		#banner2 br {
+			display: none;
+		}
+
+		#banner2 h2 {
+			font-size: 2.25em;
+		}
+
+		#banner2 p {
+			font-size: 1.25em;
+		}
+        
+		#banner3 br {
+			display: none;
+		}
+
+		#banner3 h2 {
+			font-size: 2.25em;
+		}
+
+		#banner3 p {
+			font-size: 1.25em;
+		}
+
+
 
 /* Main */
 
