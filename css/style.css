@@ -1234,3 +1234,8 @@
 					margin-left: 0;
 					padding-left: 0;
 				}
+
+img .tree:hover {
+    opacity:0.4;
+    filter: alpha(opacity=40);
+}
